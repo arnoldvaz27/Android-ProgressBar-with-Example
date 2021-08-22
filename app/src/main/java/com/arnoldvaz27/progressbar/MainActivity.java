@@ -1,12 +1,9 @@
-package com.example.differentandroidcodes;
+package com.arnoldvaz27.progressbar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.CheckBox;
-import android.widget.RadioButton;
+
 
 public class MainActivity extends AppCompatActivity {
 
